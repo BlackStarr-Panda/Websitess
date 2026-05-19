@@ -416,7 +416,7 @@
   {
     "id": 16,
     "name": "Baked Chicken Wings",
-    "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600&q=80",
+    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2019/09/baked-chicken-wings-final-1.jpg",
     "category": "Chicken",
     "cookingTime": "45 min",
     "description": "Crispy oven-baked chicken wings coated in garlic, chili, and olive oil - no frying needed.",
@@ -440,7 +440,7 @@
   {
     "id": 17,
     "name": "Beef Stew",
-    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=600&q=80",
+    "image": "https://th.bing.com/th/id/OIP.8MDLA0hgHf3ttZqshhTesAHaLH?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "category": "Beef",
     "cookingTime": "90 min",
     "description": "Hearty slow-simmered beef stew with potatoes, carrots, and a rich savory broth.",
@@ -641,7 +641,7 @@
   {
     "id": 24,
     "name": "Ramen",
-    "image": "https://www.tastingtable.com/img/gallery/the-best-ramen-restaurants-in-nyc/l-intro-1668621852.jpg",
+    "image": "https://sudachirecipes.com/wp-content/uploads/2022/09/shoyu-ramen-sq.jpg",
     "category": "Noodles",
     "cookingTime": "35 min",
     "description": "Comforting Japanese ramen in a rich soy and miso broth with soft-boiled egg and pork.",
