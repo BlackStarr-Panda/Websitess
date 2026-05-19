@@ -1,0 +1,1945 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng",
+    "image": "https://chroka.com/wp-content/uploads/2025/09/Nasi-Goreng-Indonesian-Fried-2.jpg",
+    "category": "Rice",
+    "cookingTime": "20 min",
+    "description": "Classic Indonesian fried rice with savory kecap manis and aromatic spices.",
+    "ingredients": [
+      "2 cups cooked white rice (day-old preferred)",
+      "2 eggs",
+      "3 cloves garlic, minced",
+      "2 shallots, sliced",
+      "2 tbsp kecap manis (sweet soy sauce)",
+      "1 tbsp soy sauce",
+      "1 tsp shrimp paste (terasi)",
+      "2 tbsp vegetable oil",
+      "1 stalk green onion, sliced",
+      "Salt and pepper to taste",
+      "Fried egg and cucumber for serving"
+    ],
+    "steps": [
+      "Heat oil in a wok or large frying pan over high heat.",
+      "Saute garlic and shallots until fragrant and golden, about 2 minutes.",
+      "Add shrimp paste and stir-fry for 30 seconds.",
+      "Push aromatics to the side, crack in the eggs, and scramble until just set.",
+      "Add the cold rice, breaking up any clumps. Stir-fry for 3 minutes.",
+      "Pour in kecap manis and soy sauce. Toss everything together well.",
+      "Season with salt and pepper. Stir-fry 1-2 more minutes on high heat.",
+      "Serve topped with a fried egg, sliced cucumber, and green onion."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ayam Goreng",
+    "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "45 min",
+    "description": "Juicy Indonesian fried chicken marinated in spices and deep-fried to golden perfection.",
+    "ingredients": [
+      "1 whole chicken, cut into 8 pieces",
+      "4 cloves garlic",
+      "3 shallots",
+      "1 tsp coriander seeds",
+      "1 tsp turmeric powder",
+      "2 bay leaves",
+      "1 stalk lemongrass, bruised",
+      "250 ml water",
+      "Salt to taste",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Blend garlic, shallots, coriander, and turmeric into a smooth paste.",
+      "Combine chicken, spice paste, bay leaves, lemongrass, water, and salt in a pot.",
+      "Cook over medium heat, stirring occasionally, until water is absorbed and chicken is coated, about 20 min.",
+      "Let chicken cool slightly so the spice coating dries a bit.",
+      "Heat oil for deep frying. Fry chicken pieces until golden and crispy, about 8-10 min.",
+      "Drain and serve with steamed rice and sambal."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mie Goreng",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "25 min",
+    "description": "Indonesian stir-fried noodles loaded with vegetables, egg, and a savory sweet sauce.",
+    "ingredients": [
+      "200 g egg noodles, cooked",
+      "2 eggs",
+      "2 tbsp kecap manis",
+      "1 tbsp oyster sauce",
+      "1 tbsp soy sauce",
+      "3 cloves garlic, minced",
+      "2 shallots, sliced",
+      "1 cup cabbage, shredded",
+      "1 carrot, julienned",
+      "2 tbsp oil",
+      "Green onion and fried shallots to serve"
+    ],
+    "steps": [
+      "Cook noodles according to package, drain, and set aside.",
+      "Heat oil in a wok, saute garlic and shallots until fragrant.",
+      "Add carrots and cabbage, stir-fry 2 min.",
+      "Push to the side, scramble the eggs.",
+      "Add noodles, kecap manis, oyster sauce, and soy sauce.",
+      "Toss everything together over high heat for 2-3 min.",
+      "Serve topped with fried shallots and green onion."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Soto Ayam",
+    "image": "https://s3.bukalapak.com/uploads/content_attachment/80a7798e619ee79cd135ccb5/original/resep_soto_ayam_santan_1.jpg",
+    "category": "Soup",
+    "cookingTime": "60 min",
+    "description": "A light and fragrant Indonesian turmeric chicken soup served with rice and fresh garnishes.",
+    "ingredients": [
+      "1 whole chicken",
+      "1 tsp turmeric powder",
+      "3 cm ginger, sliced",
+      "3 cloves garlic",
+      "3 shallots",
+      "2 stalks lemongrass",
+      "3 kaffir lime leaves",
+      "1.5 L water",
+      "Salt to taste",
+      "Glass noodles, hard-boiled egg, fried shallots, lime to serve"
+    ],
+    "steps": [
+      "Boil chicken in water with lemongrass, lime leaves, and ginger until cooked, about 30 min.",
+      "Shred chicken meat and set aside.",
+      "Blend garlic, shallots, and turmeric into a paste; saute in oil until fragrant.",
+      "Add spice paste to the broth. Simmer 15 min. Season with salt.",
+      "Soak glass noodles in hot water until soft.",
+      "Assemble: noodles in bowl, top with shredded chicken, ladle hot broth, garnish with egg, fried shallots, and lime."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rendang Daging",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.eIwjYvY2D7yrgOpae54mqAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "Beef",
+    "cookingTime": "120 min",
+    "description": "Rich and dry Minang beef rendang slow-cooked in coconut milk and a complex spice paste.",
+    "ingredients": [
+      "800 g beef chuck, cubed",
+      "400 ml coconut milk",
+      "200 ml water",
+      "5 dried chilies, soaked",
+      "5 shallots",
+      "4 cloves garlic",
+      "2 cm galangal",
+      "2 stalks lemongrass",
+      "3 kaffir lime leaves",
+      "1 tsp coriander powder",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Blend chilies, shallots, garlic, and galangal into a spice paste.",
+      "In a large pot, combine beef, spice paste, coconut milk, water, lemongrass, and lime leaves.",
+      "Bring to a boil, then simmer uncovered over medium-low heat, stirring occasionally.",
+      "Cook for 1.5-2 hours until liquid reduces and beef is deeply colored and tender.",
+      "Increase heat at the end, stirring frequently until nearly dry and dark.",
+      "Serve with steamed rice."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tempe Orek",
+    "image": "https://resepmamiku.com/wp-content/uploads/2022/06/tempe-orek-yscooking.jpg",
+    "category": "Vegetarian",
+    "cookingTime": "30 min",
+    "description": "Crispy sweet and spicy caramelized tempeh, a beloved Indonesian everyday side dish.",
+    "ingredients": [
+      "300 g tempeh, cut into small sticks",
+      "3 tbsp kecap manis",
+      "1 tbsp soy sauce",
+      "4 shallots, sliced",
+      "3 cloves garlic, minced",
+      "3 red chilies, sliced",
+      "1 bay leaf",
+      "1 tsp palm sugar",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Deep fry tempeh sticks until golden and crispy. Drain and set aside.",
+      "In a pan, saute shallots, garlic, chilies, and bay leaf until softened.",
+      "Add kecap manis, soy sauce, and palm sugar. Stir until sauce is thick.",
+      "Add fried tempeh and toss to coat evenly.",
+      "Cook 2-3 more minutes until tempeh absorbs the sauce.",
+      "Serve as a side with rice and vegetables."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Nasi Uduk",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "35 min",
+    "description": "Fragrant coconut milk rice cooked with lemongrass and bay leaves, a Jakarta breakfast staple.",
+    "ingredients": [
+      "2 cups jasmine rice",
+      "400 ml coconut milk",
+      "200 ml water",
+      "2 stalks lemongrass, bruised",
+      "3 bay leaves",
+      "2 kaffir lime leaves",
+      "1 tsp salt",
+      "Fried shallots and cucumber to serve"
+    ],
+    "steps": [
+      "Rinse rice until water runs clear.",
+      "Combine rice, coconut milk, water, lemongrass, bay leaves, lime leaves, and salt in a pot.",
+      "Bring to a boil, then reduce to the lowest heat, cover, and cook 20 min.",
+      "Fluff with a fork and remove aromatics.",
+      "Serve with fried shallots, sliced cucumber, and your choice of sides."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chicken Teriyaki",
+    "image": "https://images.unsplash.com/photo-1591788747743-f2b8e6fe8b08?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "25 min",
+    "description": "Glazed Japanese-style chicken thighs with a sticky, savory-sweet teriyaki sauce.",
+    "ingredients": [
+      "4 chicken thighs, boneless",
+      "3 tbsp soy sauce",
+      "2 tbsp mirin",
+      "1 tbsp sake",
+      "1 tbsp sugar",
+      "1 tsp sesame oil",
+      "1 tbsp vegetable oil",
+      "Sesame seeds and green onion to garnish"
+    ],
+    "steps": [
+      "Mix soy sauce, mirin, sake, and sugar in a bowl.",
+      "Score chicken skin lightly.",
+      "Heat oil in a pan over medium-high heat, place chicken skin-side down.",
+      "Cook 5-6 min until golden, flip and cook 4 more min.",
+      "Pour in teriyaki sauce and simmer, basting the chicken until sauce thickens.",
+      "Slice, drizzle remaining sauce, and garnish with sesame seeds and green onion."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tom Yum Soup",
+    "image": "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "30 min",
+    "description": "Spicy and sour Thai prawn soup bursting with lemongrass, kaffir lime, and galangal.",
+    "ingredients": [
+      "300 g prawns, peeled",
+      "1 L chicken broth",
+      "2 stalks lemongrass, bruised",
+      "3 slices galangal",
+      "4 kaffir lime leaves",
+      "2 tbsp fish sauce",
+      "2 tbsp lime juice",
+      "1 tbsp chili paste",
+      "200 g mushrooms, halved",
+      "1 tomato, quartered",
+      "Fresh cilantro to serve"
+    ],
+    "steps": [
+      "Bring broth to a boil with lemongrass, galangal, and kaffir lime leaves.",
+      "Add chili paste, fish sauce, and mushrooms. Simmer 5 min.",
+      "Add tomatoes and prawns, cook until prawns are pink, about 3 min.",
+      "Stir in lime juice. Taste and adjust seasoning.",
+      "Serve hot garnished with fresh cilantro."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pad Thai",
+    "image": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "20 min",
+    "description": "Classic Thai stir-fried rice noodles with tamarind, fish sauce, and crunchy peanuts.",
+    "ingredients": [
+      "200 g flat rice noodles",
+      "150 g chicken or tofu",
+      "2 eggs",
+      "3 tbsp tamarind paste",
+      "2 tbsp fish sauce",
+      "1 tbsp palm sugar",
+      "2 cloves garlic, minced",
+      "2 tbsp oil",
+      "Bean sprouts, peanuts, lime wedge, green onion to serve"
+    ],
+    "steps": [
+      "Soak noodles in warm water 20 min until flexible; drain.",
+      "Mix tamarind, fish sauce, and palm sugar into a sauce.",
+      "Heat oil in wok, saute garlic, add chicken and cook through.",
+      "Push to the side, scramble the eggs.",
+      "Add noodles and sauce, toss over high heat 2-3 min.",
+      "Add bean sprouts, toss briefly.",
+      "Serve with crushed peanuts, lime, and green onion."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Gado-Gado",
+    "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "25 min",
+    "description": "Indonesian vegetable salad with hard-boiled eggs, tofu, and a rich peanut sauce.",
+    "ingredients": [
+      "100 g bean sprouts",
+      "100 g cabbage, blanched",
+      "2 boiled potatoes, sliced",
+      "2 hard-boiled eggs, halved",
+      "100 g tofu, fried",
+      "100 g long beans, blanched",
+      "150 g roasted peanuts",
+      "2 tbsp kecap manis",
+      "1 tbsp tamarind paste",
+      "2 garlic cloves",
+      "2 red chilies",
+      "Salt and water as needed"
+    ],
+    "steps": [
+      "Blanch bean sprouts, cabbage, and long beans briefly in boiling water.",
+      "Slice potatoes and pan-fry tofu until golden.",
+      "Make peanut sauce: blend peanuts, garlic, chilies, tamarind, kecap manis, and enough water to a smooth pourable consistency.",
+      "Arrange all vegetables, eggs, and tofu on a platter.",
+      "Drizzle generously with warm peanut sauce.",
+      "Serve with prawn crackers on the side."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Beef Bulgogi",
+    "image": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "30 min",
+    "description": "Korean marinated beef grilled or pan-fried to caramelized, smoky perfection.",
+    "ingredients": [
+      "500 g beef sirloin, thinly sliced",
+      "3 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tbsp sugar",
+      "1 tbsp mirin",
+      "1 Asian pear or kiwi, grated",
+      "4 cloves garlic, minced",
+      "1 tsp ginger, grated",
+      "1 onion, sliced",
+      "Sesame seeds and green onion to garnish"
+    ],
+    "steps": [
+      "Combine soy sauce, sesame oil, sugar, mirin, grated pear, garlic, and ginger into a marinade.",
+      "Toss beef and onion in the marinade. Marinate at least 30 min, preferably overnight.",
+      "Heat a grill pan or cast iron over high heat.",
+      "Cook beef in batches without overcrowding, 1-2 min per side until caramelized.",
+      "Garnish with sesame seeds and green onion.",
+      "Serve over steamed rice with kimchi."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Sup Jagung",
+    "image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "25 min",
+    "description": "Creamy Indonesian sweet corn soup with egg ribbons and a comforting golden broth.",
+    "ingredients": [
+      "3 ears sweet corn, kernels cut off (or 2 cans)",
+      "1 L chicken or vegetable broth",
+      "2 eggs, beaten",
+      "3 cloves garlic, minced",
+      "1 tsp sesame oil",
+      "Salt and white pepper",
+      "1 tsp cornstarch mixed with 2 tbsp water",
+      "Green onion to garnish"
+    ],
+    "steps": [
+      "Saute garlic in a pot with a little oil until soft.",
+      "Add broth and corn kernels. Bring to a boil.",
+      "Blend half the soup for a creamier texture, then return to pot.",
+      "Stir in cornstarch slurry and simmer until slightly thickened.",
+      "Slowly drizzle in beaten eggs while stirring to create ribbons.",
+      "Season with salt, pepper, and sesame oil. Top with green onion."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bakso",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "40 min",
+    "description": "Indonesian meatball soup served with egg noodles in a clear, savory beef broth.",
+    "ingredients": [
+      "500 g ground beef",
+      "2 tbsp tapioca flour",
+      "1 tsp garlic powder",
+      "Salt and white pepper",
+      "1.5 L beef broth",
+      "200 g egg noodles",
+      "Bok choy, fried shallots, soy sauce, sambal to serve"
+    ],
+    "steps": [
+      "Mix ground beef with tapioca flour, garlic powder, salt, and white pepper until sticky.",
+      "Form into smooth balls using wet hands.",
+      "Bring water to a gentle simmer, drop meatballs in until they float, about 5 min. Set aside.",
+      "In a separate pot, bring beef broth to a boil. Season with salt and pepper.",
+      "Cook egg noodles, drain, and portion into bowls.",
+      "Add meatballs and bok choy. Ladle hot broth over. Top with fried shallots and serve with sambal."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mac and Cheese",
+    "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "25 min",
+    "description": "Homemade creamy macaroni coated in a rich, velvety cheddar cheese sauce.",
+    "ingredients": [
+      "225 g (8 oz) elbow macaroni",
+      "60 g butter",
+      "30 g all-purpose flour",
+      "1/2 tsp salt",
+      "Ground black pepper to taste",
+      "475 ml (2 cups) milk",
+      "200 g shredded cheddar cheese"
+    ],
+    "steps": [
+      "Bring a large pot of lightly salted water to a boil. Cook macaroni until tender, about 8 min. Drain.",
+      "Melt butter in a saucepan over medium heat.",
+      "Whisk in flour, salt, and black pepper until smooth, about 5 min.",
+      "Slowly pour in milk while constantly stirring; cook until smooth and bubbling, about 5 min.",
+      "Add cheddar and stir until melted, 2-4 min.",
+      "Fold in drained macaroni until fully coated. Serve hot."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Baked Chicken Wings",
+    "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "45 min",
+    "description": "Crispy oven-baked chicken wings coated in garlic, chili, and olive oil - no frying needed.",
+    "ingredients": [
+      "1 kg chicken wings",
+      "3 tbsp olive oil",
+      "3 cloves garlic, pressed",
+      "2 tsp chili powder",
+      "1 tsp garlic powder",
+      "Salt and ground black pepper to taste"
+    ],
+    "steps": [
+      "Preheat oven to 190 degrees C (375 degrees F).",
+      "Combine olive oil, garlic, chili powder, garlic powder, salt, and pepper in a large resealable bag.",
+      "Add chicken wings, seal, and shake well to coat evenly.",
+      "Arrange wings in a single layer on a baking sheet.",
+      "Bake until crisp and cooked through, 30-45 min, flipping halfway.",
+      "Serve hot with your favourite dipping sauce."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Beef Stew",
+    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "90 min",
+    "description": "Hearty slow-simmered beef stew with potatoes, carrots, and a rich savory broth.",
+    "ingredients": [
+      "700 g beef chuck, cubed",
+      "3 potatoes, cubed",
+      "2 carrots, sliced",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "2 tbsp tomato paste",
+      "500 ml beef broth",
+      "1 tbsp Worcestershire sauce",
+      "2 tbsp flour",
+      "Salt, pepper, thyme to taste"
+    ],
+    "steps": [
+      "Season beef with salt and pepper. Dust lightly in flour.",
+      "Brown beef in oil over high heat in batches. Set aside.",
+      "Saute onion and garlic in the same pot until soft.",
+      "Add tomato paste and stir 1 min.",
+      "Return beef, add broth, Worcestershire sauce, and thyme. Bring to a boil.",
+      "Reduce heat, cover, and simmer 45 min.",
+      "Add potatoes and carrots, cook 25-30 more min until tender.",
+      "Season and serve with crusty bread."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Nasi Kuning",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "40 min",
+    "description": "Golden turmeric rice cooked in coconut milk, often served at celebrations and special occasions.",
+    "ingredients": [
+      "2 cups jasmine rice",
+      "400 ml coconut milk",
+      "200 ml water",
+      "1.5 tsp turmeric powder",
+      "2 stalks lemongrass, bruised",
+      "3 bay leaves",
+      "2 kaffir lime leaves",
+      "1 tsp salt",
+      "Fried shallots and boiled egg to serve"
+    ],
+    "steps": [
+      "Rinse rice until water runs clear.",
+      "Combine rice, coconut milk, water, turmeric, lemongrass, bay leaves, lime leaves, and salt in a pot.",
+      "Stir gently and bring to a boil over medium heat.",
+      "Reduce heat to the lowest setting, cover tightly, and cook 20 min.",
+      "Fluff rice gently and remove aromatics.",
+      "Mold into a cone shape if desired, or serve flat garnished with fried shallots and boiled egg."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Garlic Butter Rice",
+    "image": "https://images.unsplash.com/photo-1536304993881-ff86e0c9c5b8?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "20 min",
+    "description": "Simple and aromatic garlic butter rice - the perfect fluffy side for any main dish.",
+    "ingredients": [
+      "2 cups long-grain white rice",
+      "4 cloves garlic, minced",
+      "3 tbsp butter",
+      "2.5 cups chicken or vegetable broth",
+      "1/2 tsp salt",
+      "Fresh parsley, chopped to garnish"
+    ],
+    "steps": [
+      "Melt butter in a saucepan over medium heat.",
+      "Add garlic and saute until fragrant and lightly golden, about 2 min.",
+      "Add rice and stir to coat in the garlic butter for 1-2 min.",
+      "Pour in broth and salt. Bring to a boil.",
+      "Reduce heat to low, cover, and cook 18 min until liquid is absorbed.",
+      "Fluff with a fork and garnish with fresh parsley."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Chicken Tinola",
+    "image": "https://images.unsplash.com/photo-1604908177453-7462950a6a3b?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "45 min",
+    "description": "Filipino ginger chicken soup with green papaya and chili leaves in a clear, warming broth.",
+    "ingredients": [
+      "1 kg chicken, cut into pieces",
+      "1 green papaya, peeled and sliced",
+      "1 bunch chili leaves or spinach",
+      "5 cm ginger, sliced into strips",
+      "4 cloves garlic, minced",
+      "1 onion, quartered",
+      "1 L water",
+      "2 tbsp fish sauce",
+      "1 tbsp oil",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Heat oil in a pot, saute garlic, onion, and ginger until fragrant.",
+      "Add chicken and cook until lightly browned on all sides.",
+      "Pour in water and bring to a boil. Skim off any foam.",
+      "Add fish sauce and season with salt and pepper.",
+      "Simmer over medium heat for 25 min until chicken is tender.",
+      "Add green papaya and cook 5 min until slightly tender.",
+      "Stir in chili leaves or spinach at the very end. Serve hot with rice."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Honey Garlic Chicken",
+    "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c7?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "30 min",
+    "description": "Sticky, glossy chicken thighs glazed in a sweet honey garlic sauce - quick and irresistible.",
+    "ingredients": [
+      "4 chicken thighs, bone-in",
+      "4 cloves garlic, minced",
+      "3 tbsp honey",
+      "2 tbsp soy sauce",
+      "1 tbsp apple cider vinegar",
+      "1 tbsp oil",
+      "1/2 tsp chili flakes (optional)",
+      "Salt and pepper",
+      "Fresh thyme or rosemary to garnish"
+    ],
+    "steps": [
+      "Season chicken with salt and pepper.",
+      "Heat oil in an oven-safe skillet over medium-high heat.",
+      "Sear chicken skin-side down for 5-6 min until golden. Flip and sear 3 min.",
+      "Remove chicken. Saute garlic in the same pan 30 seconds.",
+      "Stir in honey, soy sauce, and vinegar. Bring to a simmer.",
+      "Return chicken to the pan, coat with sauce. Transfer to oven.",
+      "Bake at 200 degrees C (390 degrees F) for 20 min, basting halfway.",
+      "Garnish with fresh herbs and serve with rice or vegetables."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Pho Bo",
+    "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "90 min",
+    "description": "Vietnamese beef noodle soup with a deeply aromatic star anise and cinnamon broth.",
+    "ingredients": [
+      "500 g beef bones",
+      "300 g beef sirloin, thinly sliced",
+      "200 g flat rice noodles",
+      "2 star anise",
+      "1 cinnamon stick",
+      "3 cloves",
+      "5 cm ginger, charred",
+      "1 onion, charred",
+      "2 L water",
+      "3 tbsp fish sauce",
+      "1 tsp sugar",
+      "Bean sprouts, basil, lime, chili to serve"
+    ],
+    "steps": [
+      "Char ginger and onion directly over an open flame or under a broiler until blackened on the outside.",
+      "Boil beef bones in water for 5 min, then discard water and rinse bones.",
+      "In a fresh pot, add bones, charred ginger and onion, star anise, cinnamon, and cloves.",
+      "Cover with 2 L water and simmer for 1.5 hours. Skim foam regularly.",
+      "Strain broth. Season with fish sauce, sugar, and salt.",
+      "Cook rice noodles according to package and drain.",
+      "Place noodles in bowls, top with raw beef slices. Ladle boiling broth over to cook the beef.",
+      "Serve with bean sprouts, fresh basil, lime wedges, and chili on the side."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "French Onion Soup",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "70 min",
+    "description": "Classic French soup of deeply caramelized onions in a rich beef broth, topped with melted Gruyere.",
+    "ingredients": [
+      "4 large onions, thinly sliced",
+      "4 tbsp butter",
+      "1 tbsp olive oil",
+      "1 tsp sugar",
+      "1 L beef broth",
+      "100 ml dry white wine",
+      "1 tbsp flour",
+      "Baguette slices",
+      "100 g Gruyere cheese, grated",
+      "Salt and pepper to taste",
+      "Fresh thyme"
+    ],
+    "steps": [
+      "Melt butter and oil in a heavy pot over medium-low heat.",
+      "Add onions and sugar. Cook slowly, stirring often, for 40-50 min until deeply golden and caramelized.",
+      "Stir in flour and cook 2 min.",
+      "Add white wine and stir to deglaze, scraping up any browned bits.",
+      "Pour in beef broth and thyme. Simmer 20 min. Season with salt and pepper.",
+      "Ladle soup into oven-safe bowls. Top with baguette slices and a generous pile of Gruyere.",
+      "Broil until cheese is melted and bubbling. Serve immediately."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Ramen",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "35 min",
+    "description": "Comforting Japanese ramen in a rich soy and miso broth with soft-boiled egg and pork.",
+    "ingredients": [
+      "2 portions ramen noodles",
+      "1 L chicken or pork broth",
+      "2 tbsp white miso paste",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "2 soft-boiled eggs",
+      "100 g chashu pork or roasted pork belly, sliced",
+      "2 sheets nori",
+      "Green onion, sliced",
+      "2 cloves garlic, minced",
+      "1 tsp ginger, grated",
+      "Corn and bamboo shoots for topping"
+    ],
+    "steps": [
+      "In a pot, saute garlic and ginger in sesame oil for 1 min.",
+      "Add broth and bring to a gentle simmer.",
+      "Whisk in miso paste and soy sauce. Do not boil after adding miso.",
+      "Cook ramen noodles separately according to package; drain well.",
+      "Place noodles in serving bowls.",
+      "Ladle hot broth over the noodles.",
+      "Top with soft-boiled egg halved, sliced pork, nori, green onion, and corn.",
+      "Add a drizzle of sesame oil and serve immediately."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Spaghetti Aglio e Olio",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "20 min",
+    "description": "Classic Italian pasta with golden garlic, olive oil, chili flakes, and fresh parsley.",
+    "ingredients": [
+      "400 g spaghetti",
+      "8 cloves garlic, thinly sliced",
+      "80 ml extra virgin olive oil",
+      "1 tsp red chili flakes",
+      "1/2 cup pasta cooking water (reserved)",
+      "Large handful fresh parsley, chopped",
+      "Salt to taste",
+      "Parmesan to serve (optional)"
+    ],
+    "steps": [
+      "Cook spaghetti in well-salted boiling water until al dente. Reserve 1/2 cup pasta water before draining.",
+      "While pasta cooks, heat olive oil in a large pan over medium-low heat.",
+      "Add garlic slices and cook slowly until golden but not brown, about 4 min.",
+      "Add chili flakes and stir 30 seconds.",
+      "Add drained pasta and splash in pasta water. Toss vigorously to emulsify.",
+      "Remove from heat, stir in fresh parsley.",
+      "Serve immediately with parmesan if desired."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Mushroom Risotto",
+    "image": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "40 min",
+    "description": "Creamy Italian risotto loaded with earthy mushrooms and finished with butter and parmesan.",
+    "ingredients": [
+      "300 g arborio rice",
+      "400 g mixed mushrooms, sliced",
+      "1 onion, finely diced",
+      "3 cloves garlic, minced",
+      "150 ml dry white wine",
+      "1 L warm vegetable broth",
+      "3 tbsp butter",
+      "60 g parmesan, grated",
+      "2 tbsp olive oil",
+      "Salt, pepper, and fresh thyme"
+    ],
+    "steps": [
+      "Heat oil and 1 tbsp butter in a wide pot over medium heat.",
+      "Saute onion until soft, about 5 min. Add garlic and mushrooms, cook until mushrooms are golden.",
+      "Add rice and stir to coat in the oil for 2 min.",
+      "Pour in white wine and stir until absorbed.",
+      "Add warm broth one ladle at a time, stirring constantly and waiting until each addition is absorbed.",
+      "Continue for about 20-25 min until rice is creamy and al dente.",
+      "Remove from heat, stir in remaining butter and parmesan.",
+      "Season with salt, pepper, and fresh thyme. Serve immediately."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Caprese Salad",
+    "image": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "10 min",
+    "description": "Fresh Italian salad of ripe tomatoes, creamy mozzarella, and basil drizzled with olive oil.",
+    "ingredients": [
+      "3 large ripe tomatoes, sliced",
+      "250 g fresh mozzarella, sliced",
+      "Large handful fresh basil leaves",
+      "3 tbsp extra virgin olive oil",
+      "1 tbsp balsamic glaze",
+      "Flaky sea salt and black pepper"
+    ],
+    "steps": [
+      "Arrange alternating slices of tomato and mozzarella on a large plate.",
+      "Tuck fresh basil leaves between the slices.",
+      "Drizzle generously with extra virgin olive oil.",
+      "Drizzle balsamic glaze over the top.",
+      "Season with flaky sea salt and freshly cracked black pepper.",
+      "Serve immediately at room temperature."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Beef Tacos",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "25 min",
+    "description": "Juicy spiced ground beef tacos with salsa, cheese, and all your favourite toppings.",
+    "ingredients": [
+      "500 g ground beef",
+      "8 small taco shells or corn tortillas",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "1 tsp cumin",
+      "1 tsp chili powder",
+      "1/2 tsp smoked paprika",
+      "Salt and pepper",
+      "Salsa, shredded cheese, sour cream, lettuce, lime to serve"
+    ],
+    "steps": [
+      "Heat oil in a pan over medium-high heat. Saute onion until soft.",
+      "Add garlic and cook 1 min.",
+      "Add ground beef and break apart. Cook until browned, about 6-8 min.",
+      "Drain excess fat.",
+      "Add cumin, chili powder, paprika, salt, and pepper. Stir well and cook 2 more min.",
+      "Warm taco shells or tortillas in a dry pan.",
+      "Fill with beef mixture and top with salsa, cheese, sour cream, lettuce, and a squeeze of lime."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Yukgaejang",
+    "image": "https://images.unsplash.com/photo-1604908177453-7462950a6a3b?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "80 min",
+    "description": "Fiery Korean beef and vegetable soup with a deep red chili broth - spicy, hearty, and warming.",
+    "ingredients": [
+      "400 g beef brisket",
+      "100 g fernbrake (gosari) or bean sprouts",
+      "2 stalks green onion, cut into pieces",
+      "1 L beef broth",
+      "3 tbsp gochugaru (Korean chili flakes)",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "4 cloves garlic, minced",
+      "2 eggs, beaten",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Boil beef brisket in 1.5 L water for 40 min until tender. Reserve broth.",
+      "Shred beef into strips and set aside.",
+      "If using fernbrake, soak and boil until soft; if using bean sprouts, blanch briefly.",
+      "Mix gochugaru, soy sauce, sesame oil, and garlic into a spice paste.",
+      "Toss shredded beef and vegetables in the spice paste.",
+      "Add reserved broth to a pot, bring to a boil, add spiced beef and vegetables.",
+      "Simmer 15 min. Slowly drizzle in beaten eggs while stirring.",
+      "Season with salt and pepper. Serve with steamed rice."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Laksa",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "40 min",
+    "description": "Spicy and creamy Southeast Asian coconut curry noodle soup loaded with prawns and tofu.",
+    "ingredients": [
+      "200 g rice vermicelli",
+      "300 g prawns, peeled",
+      "100 g tofu, fried",
+      "400 ml coconut milk",
+      "500 ml chicken broth",
+      "3 tbsp laksa paste",
+      "1 tbsp fish sauce",
+      "1 tsp sugar",
+      "Bean sprouts, fresh mint, lime to serve"
+    ],
+    "steps": [
+      "Soak rice vermicelli in warm water until soft; drain.",
+      "In a pot, fry laksa paste over medium heat until fragrant, about 2 min.",
+      "Pour in broth and bring to a boil.",
+      "Stir in coconut milk, fish sauce, and sugar. Simmer 10 min.",
+      "Add prawns and cook until pink, about 3 min.",
+      "Add fried tofu and heat through.",
+      "Divide vermicelli into bowls, ladle hot laksa broth and toppings over.",
+      "Garnish with bean sprouts, fresh mint, and lime wedges."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nasi Bakar",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "35 min",
+    "description": "Grilled banana leaf-wrapped rice stuffed with spiced chicken and aromatic herbs.",
+    "ingredients": [
+      "3 cups cooked jasmine rice",
+      "200 g chicken, shredded and cooked with spices",
+      "3 tbsp kecap manis",
+      "2 shallots, minced",
+      "3 cloves garlic, minced",
+      "2 red chilies, sliced",
+      "2 tbsp coconut milk",
+      "Banana leaves for wrapping",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Mix shredded chicken with kecap manis, shallots, garlic, chilies, and coconut milk. Season with salt.",
+      "Soften banana leaves briefly over an open flame or in hot water.",
+      "Spread a portion of rice on a banana leaf, add chicken filling on top, then cover with more rice.",
+      "Fold banana leaf tightly around the rice and secure with toothpicks.",
+      "Grill on a charcoal or gas grill for 8-10 min per side until fragrant and slightly charred.",
+      "Open at the table and serve with sambal."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Chicken Katsu",
+    "image": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "30 min",
+    "description": "Japanese crispy panko-breaded chicken cutlet served with tonkatsu sauce and shredded cabbage.",
+    "ingredients": [
+      "2 large chicken breasts, butterflied",
+      "1 cup panko breadcrumbs",
+      "1/2 cup all-purpose flour",
+      "2 eggs, beaten",
+      "Salt and pepper",
+      "Oil for frying",
+      "Tonkatsu sauce, steamed rice, shredded cabbage to serve"
+    ],
+    "steps": [
+      "Pound chicken breasts to even thickness. Season with salt and pepper.",
+      "Set up a breading station: flour, beaten eggs, and panko in separate bowls.",
+      "Coat each chicken piece in flour, dip in egg, then press firmly into panko.",
+      "Heat oil in a pan to 170 degrees C (340 degrees F).",
+      "Fry chicken 4-5 min per side until golden brown and cooked through.",
+      "Drain on paper towel. Slice into strips and serve on rice with cabbage and tonkatsu sauce."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sayur Asem",
+    "image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "35 min",
+    "description": "Fresh and tangy Indonesian tamarind vegetable soup - light, sour, and incredibly refreshing.",
+    "ingredients": [
+      "100 g peanuts, raw",
+      "100 g corn on the cob, cut into pieces",
+      "100 g young jackfruit or chayote, cubed",
+      "100 g long beans, cut",
+      "50 g melinjo nuts and leaves (optional)",
+      "3 tbsp tamarind paste",
+      "1.5 L water",
+      "3 shallots",
+      "3 cloves garlic",
+      "2 red chilies",
+      "2 bay leaves",
+      "1 cm galangal",
+      "Salt and palm sugar to taste"
+    ],
+    "steps": [
+      "Blend shallots, garlic, and chilies into a rough paste.",
+      "Bring water to a boil in a pot. Add spice paste, bay leaves, and galangal.",
+      "Add peanuts and corn. Simmer 10 min.",
+      "Add jackfruit or chayote, long beans, and melinjo.",
+      "Stir in tamarind paste. Season with salt and palm sugar.",
+      "Simmer 10 more min until all vegetables are tender but still have bite.",
+      "Taste and adjust sourness. Serve with steamed rice."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Kwetiau Goreng",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "20 min",
+    "description": "Indonesian stir-fried flat rice noodles with egg, vegetables, and dark soy sauce.",
+    "ingredients": [
+      "300 g flat rice noodles (kwetiau), soaked",
+      "2 eggs",
+      "100 g bean sprouts",
+      "3 stalks green onion, cut",
+      "3 cloves garlic, minced",
+      "2 shallots, sliced",
+      "2 tbsp dark soy sauce",
+      "1 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "2 tbsp oil",
+      "Salt and white pepper"
+    ],
+    "steps": [
+      "Soak kwetiau in warm water until pliable; drain well.",
+      "Heat oil in a wok over very high heat.",
+      "Saute garlic and shallots until fragrant.",
+      "Push aside, crack in eggs and scramble until half-set.",
+      "Add noodles and toss together. Add dark soy sauce, soy sauce, and oyster sauce.",
+      "Stir-fry everything vigorously for 2-3 min, letting noodles char slightly.",
+      "Add bean sprouts and green onion. Toss briefly. Season and serve hot."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Capcay",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "20 min",
+    "description": "Indonesian-Chinese stir-fried mixed vegetables in a light savory sauce - colorful and nutritious.",
+    "ingredients": [
+      "1 cup broccoli florets",
+      "1 cup cauliflower florets",
+      "1 carrot, sliced",
+      "100 g baby corn",
+      "1 cup cabbage, roughly chopped",
+      "3 cloves garlic, minced",
+      "2 shallots, sliced",
+      "200 ml vegetable broth",
+      "1 tbsp oyster sauce (or vegetarian oyster sauce)",
+      "1 tbsp soy sauce",
+      "1 tsp cornstarch mixed with 2 tbsp water",
+      "1 tsp sesame oil",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Heat oil in a wok over high heat. Saute garlic and shallots until fragrant.",
+      "Add carrots and baby corn first; stir-fry 2 min.",
+      "Add broccoli, cauliflower, and cabbage. Stir-fry 2 more min.",
+      "Pour in broth, oyster sauce, and soy sauce. Toss well.",
+      "Add cornstarch slurry and stir until sauce thickens.",
+      "Drizzle sesame oil, toss once more, and serve with steamed rice."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Beef Yakiniku",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "20 min",
+    "description": "Japanese BBQ beef slices marinated in a sweet soy and sesame sauce, grilled at the table.",
+    "ingredients": [
+      "500 g beef short rib or ribeye, thinly sliced",
+      "4 tbsp soy sauce",
+      "2 tbsp mirin",
+      "1 tbsp sesame oil",
+      "1 tbsp sugar",
+      "2 cloves garlic, grated",
+      "1 tsp ginger, grated",
+      "1 tbsp sake",
+      "Sesame seeds and green onion to garnish",
+      "Steamed rice and kimchi to serve"
+    ],
+    "steps": [
+      "Combine soy sauce, mirin, sesame oil, sugar, garlic, ginger, and sake in a bowl.",
+      "Add beef slices and marinate for at least 20 min.",
+      "Heat a grill pan or cast iron skillet over very high heat until smoking.",
+      "Grill beef slices in a single layer for 1-2 min per side until caramelized.",
+      "Work in batches to avoid steaming the meat.",
+      "Sprinkle with sesame seeds and green onion.",
+      "Serve immediately with steamed rice and kimchi."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Nasi Pecel",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "25 min",
+    "description": "Javanese steamed vegetables over rice with a bold peanut and kaffir lime sauce.",
+    "ingredients": [
+      "2 cups steamed rice",
+      "100 g bean sprouts, blanched",
+      "100 g spinach, blanched",
+      "100 g long beans, blanched and cut",
+      "150 g roasted peanuts",
+      "3 red chilies",
+      "2 cloves garlic",
+      "1 tsp shrimp paste (terasi), toasted",
+      "2 kaffir lime leaves, sliced finely",
+      "1 tsp palm sugar",
+      "Juice of 1 lime",
+      "Salt and warm water"
+    ],
+    "steps": [
+      "Blend peanuts, chilies, garlic, terasi, kaffir lime leaves, and palm sugar into a thick paste.",
+      "Add lime juice and warm water gradually until sauce is pourable but thick.",
+      "Season with salt. Taste and adjust heat and sweetness.",
+      "Arrange blanched vegetables on a plate of steamed rice.",
+      "Pour peanut sauce generously over the top.",
+      "Serve with prawn crackers and extra sambal on the side."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Butter Chicken",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "50 min",
+    "description": "Rich and creamy Indian butter chicken in a velvety tomato and spice sauce.",
+    "ingredients": [
+      "700 g chicken thighs, cubed",
+      "400 g canned tomatoes",
+      "200 ml heavy cream",
+      "3 tbsp butter",
+      "1 onion, diced",
+      "4 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "2 tsp garam masala",
+      "1 tsp cumin",
+      "1 tsp turmeric",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "Fresh cilantro and naan to serve"
+    ],
+    "steps": [
+      "Mix chicken with half the spices, salt, and 1 tbsp yogurt. Marinate 30 min.",
+      "Sear chicken in butter over high heat until browned. Set aside.",
+      "In the same pan, saute onion until golden. Add garlic and ginger.",
+      "Add remaining spices and stir 1 min until fragrant.",
+      "Add canned tomatoes. Simmer 15 min until thickened.",
+      "Blend sauce until smooth. Return to pan.",
+      "Add chicken and cream. Simmer 10 min.",
+      "Garnish with cilantro and serve with naan or rice."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Minestrone",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "45 min",
+    "description": "Hearty Italian vegetable and pasta soup with tomatoes, cannellini beans, and fresh herbs.",
+    "ingredients": [
+      "1 can (400 g) crushed tomatoes",
+      "1 can (400 g) cannellini beans, drained",
+      "1 zucchini, diced",
+      "2 carrots, diced",
+      "2 stalks celery, diced",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "1 L vegetable broth",
+      "100 g small pasta (ditalini or elbow)",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano",
+      "1 tsp dried basil",
+      "Salt and pepper",
+      "Parmesan rind (optional) and fresh basil to serve"
+    ],
+    "steps": [
+      "Heat olive oil in a large pot. Saute onion, carrots, and celery for 5 min.",
+      "Add garlic, oregano, and basil. Cook 1 min.",
+      "Add crushed tomatoes and broth. If using, add parmesan rind.",
+      "Bring to a boil, then simmer 15 min.",
+      "Add zucchini, beans, and pasta. Cook until pasta is tender, about 10 min.",
+      "Remove parmesan rind. Season with salt and pepper.",
+      "Serve with fresh basil and grated parmesan."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Udon Stir-Fry",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "20 min",
+    "description": "Thick and chewy Japanese udon noodles stir-fried with vegetables in a savory sauce.",
+    "ingredients": [
+      "2 portions fresh udon noodles",
+      "1 cup cabbage, shredded",
+      "1 carrot, julienned",
+      "3 cloves garlic, minced",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tsp sesame oil",
+      "1 tbsp vegetable oil",
+      "2 eggs",
+      "Green onion and sesame seeds to garnish"
+    ],
+    "steps": [
+      "Blanch udon noodles in hot water for 1 min to loosen; drain.",
+      "Heat oil in a wok over high heat. Saute garlic until fragrant.",
+      "Add carrot and cabbage, stir-fry 2 min.",
+      "Push vegetables aside, scramble eggs in the pan.",
+      "Add udon noodles, soy sauce, and oyster sauce. Toss everything together.",
+      "Stir-fry 2-3 min until noodles are heated through and lightly charred.",
+      "Drizzle sesame oil, garnish with green onion and sesame seeds."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Vegetable Curry",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "35 min",
+    "description": "Warm and fragrant coconut vegetable curry with chickpeas, spinach, and tomatoes.",
+    "ingredients": [
+      "1 can (400 g) chickpeas, drained",
+      "1 can (400 ml) coconut milk",
+      "200 g spinach",
+      "2 tomatoes, diced",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "2 tbsp curry powder",
+      "1 tsp cumin seeds",
+      "1 tsp turmeric",
+      "2 tbsp oil",
+      "Salt and lime juice to taste",
+      "Fresh cilantro and rice to serve"
+    ],
+    "steps": [
+      "Heat oil in a pot, add cumin seeds and let them sizzle 30 seconds.",
+      "Add onion and saute until golden, about 7 min.",
+      "Add garlic and ginger, cook 1 min.",
+      "Add curry powder and turmeric, stir 1 min until fragrant.",
+      "Add tomatoes and cook until they break down, about 5 min.",
+      "Pour in coconut milk and chickpeas. Simmer 15 min.",
+      "Stir in spinach and cook until wilted.",
+      "Season with salt and a squeeze of lime. Serve with rice and cilantro."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Beef Stroganoff",
+    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "35 min",
+    "description": "Classic Russian beef in a creamy mushroom and sour cream sauce, served over egg noodles.",
+    "ingredients": [
+      "500 g beef sirloin, thinly sliced",
+      "300 g mushrooms, sliced",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "200 ml sour cream",
+      "200 ml beef broth",
+      "1 tbsp Worcestershire sauce",
+      "1 tbsp flour",
+      "2 tbsp butter",
+      "Salt and pepper",
+      "Egg noodles or rice to serve",
+      "Fresh parsley to garnish"
+    ],
+    "steps": [
+      "Season beef with salt and pepper. Sear in butter over high heat until browned. Set aside.",
+      "In the same pan, saute onion until soft. Add garlic and mushrooms; cook until golden.",
+      "Stir in flour and cook 1 min.",
+      "Add broth and Worcestershire sauce. Stir until smooth and bring to a simmer.",
+      "Cook 5 min until slightly thickened.",
+      "Reduce heat to low. Stir in sour cream and return beef to the pan.",
+      "Heat gently without boiling. Season to taste.",
+      "Serve over egg noodles or rice, garnished with fresh parsley."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Nasi Liwet",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "40 min",
+    "description": "Solo-style rice cooked in coconut milk and chicken broth, served with rich opor chicken.",
+    "ingredients": [
+      "2 cups jasmine rice",
+      "300 ml coconut milk",
+      "300 ml chicken broth",
+      "2 stalks lemongrass, bruised",
+      "3 bay leaves",
+      "2 kaffir lime leaves",
+      "1 tsp salt",
+      "1/2 tsp sugar",
+      "Fried shallots, boiled egg, and shredded chicken to serve"
+    ],
+    "steps": [
+      "Rinse rice until water runs clear.",
+      "Combine rice, coconut milk, chicken broth, lemongrass, bay leaves, lime leaves, salt, and sugar in a pot.",
+      "Bring to a boil over medium heat, stirring occasionally to prevent sticking.",
+      "Once water is level with the rice, reduce heat to very low, cover tightly.",
+      "Cook 20 min. Remove from heat and rest covered 5 min.",
+      "Fluff gently. Serve with fried shallots, boiled egg, and shredded chicken."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Opor Ayam",
+    "image": "https://images.unsplash.com/photo-1604908177453-7462950a6a3b?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "55 min",
+    "description": "Javanese chicken in mild and fragrant coconut milk broth with candlenuts and galangal.",
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "400 ml coconut milk",
+      "300 ml water",
+      "4 candlenuts (kemiri), toasted",
+      "5 shallots",
+      "3 cloves garlic",
+      "2 cm galangal",
+      "2 stalks lemongrass, bruised",
+      "3 bay leaves",
+      "1 tsp coriander powder",
+      "1/2 tsp cumin powder",
+      "Salt and palm sugar to taste"
+    ],
+    "steps": [
+      "Blend candlenuts, shallots, garlic, galangal, coriander, and cumin into a smooth paste.",
+      "Saute spice paste in oil over medium heat for 3-4 min until fragrant.",
+      "Add chicken pieces and stir to coat with the spice paste.",
+      "Pour in water, add lemongrass and bay leaves. Simmer 20 min.",
+      "Add coconut milk and season with salt and palm sugar.",
+      "Simmer gently (do not boil hard) for 20 more min until chicken is fully tender.",
+      "Serve warm with steamed rice or nasi liwet."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Es Teler Pudding",
+    "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "15 min",
+    "description": "A refreshing no-bake Indonesian-inspired coconut pudding with avocado and jackfruit.",
+    "ingredients": [
+      "400 ml coconut milk",
+      "200 ml water",
+      "7 g agar-agar powder",
+      "4 tbsp sugar",
+      "1/4 tsp salt",
+      "1 ripe avocado, cubed",
+      "100 g canned jackfruit, shredded",
+      "Sweetened condensed milk to serve",
+      "Ice cubes to serve"
+    ],
+    "steps": [
+      "Combine coconut milk, water, agar-agar, sugar, and salt in a saucepan.",
+      "Heat over medium, stirring constantly, until it comes to a boil.",
+      "Pour into a lightly greased mold or individual cups.",
+      "Allow to cool to room temperature, then refrigerate until set, at least 1 hour.",
+      "Cut or scoop pudding into pieces.",
+      "Serve in bowls with cubed avocado, jackfruit, condensed milk drizzle, and ice cubes."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Nasi Goreng Seafood",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "25 min",
+    "description": "Indonesian fried rice loaded with prawns, squid, and fish cake in a savory sauce.",
+    "ingredients": [
+      "2 cups cooked white rice (day-old preferred)",
+      "150 g prawns, peeled",
+      "100 g squid, sliced into rings",
+      "100 g fish cake, sliced",
+      "2 eggs",
+      "3 cloves garlic, minced",
+      "2 shallots, sliced",
+      "2 tbsp kecap manis",
+      "1 tbsp oyster sauce",
+      "1 tbsp soy sauce",
+      "2 tbsp oil",
+      "Green onion and fried shallots to serve"
+    ],
+    "steps": [
+      "Heat oil in a wok over high heat. Saute garlic and shallots until fragrant.",
+      "Add prawns and squid. Stir-fry 2 min until just cooked. Set aside.",
+      "Push aromatics aside, crack in eggs and scramble until half-set.",
+      "Add rice and stir-fry vigorously for 3 min, breaking up clumps.",
+      "Add kecap manis, oyster sauce, and soy sauce. Toss everything well.",
+      "Return seafood and fish cake to the wok. Toss together 1 more min.",
+      "Serve topped with fried shallots and green onion."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Chicken Adobo",
+    "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "50 min",
+    "description": "Filipino braised chicken in a tangy soy vinegar sauce with bay leaves and black pepper.",
+    "ingredients": [
+      "1 kg chicken pieces",
+      "100 ml white cane vinegar",
+      "60 ml soy sauce",
+      "6 cloves garlic, crushed",
+      "3 bay leaves",
+      "1 tsp black peppercorns",
+      "1 tsp sugar",
+      "1 tbsp oil",
+      "200 ml water"
+    ],
+    "steps": [
+      "Combine chicken with vinegar, soy sauce, garlic, bay leaves, peppercorns, and sugar in a pot.",
+      "Let marinate for at least 15 min.",
+      "Add water and bring to a boil uncovered.",
+      "Reduce heat and simmer 30 min until chicken is tender and sauce reduces.",
+      "Remove chicken and pan-fry in oil until browned and slightly crispy.",
+      "Return to the sauce and simmer 5 more min.",
+      "Serve over steamed rice with the pan sauce drizzled over."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Sup Buntut",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "120 min",
+    "description": "Indonesian oxtail soup with a rich clear broth, potatoes, and aromatic spices.",
+    "ingredients": [
+      "1 kg oxtail, cut into segments",
+      "2 potatoes, peeled and cubed",
+      "2 carrots, sliced",
+      "1 tomato, quartered",
+      "5 shallots",
+      "4 cloves garlic",
+      "2 cm ginger",
+      "1 tsp nutmeg",
+      "3 cloves",
+      "2 star anise",
+      "2 L water",
+      "Salt and white pepper",
+      "Fried shallots, celery leaves, and lime to serve"
+    ],
+    "steps": [
+      "Blanch oxtail in boiling water for 5 min. Discard water and rinse oxtail clean.",
+      "In a fresh pot, add oxtail and 2 L water. Bring to a boil.",
+      "Add whole shallots, garlic, ginger, cloves, star anise, and nutmeg.",
+      "Simmer uncovered for 1.5-2 hours until oxtail is very tender. Skim foam regularly.",
+      "Add potatoes and carrots. Cook 15 min until tender.",
+      "Add tomato and season generously with salt and white pepper.",
+      "Serve garnished with fried shallots, celery leaves, and a squeeze of lime."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Bihun Goreng",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "20 min",
+    "description": "Indonesian stir-fried rice vermicelli with vegetables and egg in a light savory sauce.",
+    "ingredients": [
+      "200 g rice vermicelli (bihun), soaked until soft",
+      "2 eggs",
+      "100 g cabbage, shredded",
+      "1 carrot, julienned",
+      "3 cloves garlic, minced",
+      "2 shallots, sliced",
+      "2 tbsp soy sauce",
+      "1 tbsp kecap manis",
+      "1 tbsp oyster sauce",
+      "2 tbsp oil",
+      "Green onion, fried shallots, and lime to serve"
+    ],
+    "steps": [
+      "Soak rice vermicelli in room-temperature water for 10 min until pliable. Drain well.",
+      "Heat oil in a wok over high heat. Saute garlic and shallots until golden.",
+      "Add carrot and cabbage, stir-fry 2 min.",
+      "Push to the side, scramble the eggs.",
+      "Add drained vermicelli, soy sauce, kecap manis, and oyster sauce.",
+      "Toss everything together gently over high heat for 2 min.",
+      "Serve with fried shallots, green onion, and a wedge of lime."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Tumis Kangkung",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "10 min",
+    "description": "Quick and fiery Indonesian stir-fried water spinach with garlic, chili, and shrimp paste.",
+    "ingredients": [
+      "400 g water spinach (kangkung), cleaned and cut",
+      "4 cloves garlic, minced",
+      "3 red chilies, sliced",
+      "1 tsp shrimp paste (terasi)",
+      "1 tbsp oyster sauce",
+      "1 tbsp soy sauce",
+      "1/2 tsp sugar",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Heat oil in a wok over the highest heat possible.",
+      "Add garlic and chilies, stir-fry 30 seconds until fragrant.",
+      "Add shrimp paste and mash it into the oil.",
+      "Throw in kangkung all at once. Toss rapidly.",
+      "Add oyster sauce, soy sauce, and sugar.",
+      "Stir-fry vigorously for 1-2 min until kangkung is wilted but still bright green.",
+      "Season with salt, plate immediately, and serve with steamed rice."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Beef Rawon",
+    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "90 min",
+    "description": "East Javanese black beef soup with a deep, rich broth colored by keluak nuts.",
+    "ingredients": [
+      "700 g beef brisket, cubed",
+      "4 keluak nuts, flesh scooped out",
+      "5 shallots",
+      "4 cloves garlic",
+      "3 red chilies",
+      "2 cm galangal",
+      "1 stalk lemongrass, bruised",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric",
+      "1.5 L water",
+      "2 tbsp oil",
+      "Salt and sugar to taste",
+      "Bean sprouts, salted egg, and sambal to serve"
+    ],
+    "steps": [
+      "Blend shallots, garlic, chilies, galangal, keluak flesh, coriander, and turmeric into a paste.",
+      "Heat oil in a pot, saute spice paste for 4-5 min until very fragrant and darkened.",
+      "Add beef and stir to coat with paste. Cook 5 min.",
+      "Add water and lemongrass. Bring to a boil.",
+      "Simmer covered for 60-75 min until beef is very tender.",
+      "Season generously with salt and a pinch of sugar.",
+      "Serve with fresh bean sprouts, salted egg, and sambal."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Nasi Tim",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+    "category": "Rice",
+    "cookingTime": "45 min",
+    "description": "Soft steamed rice cooked with chicken and soy sauce, a gentle and comforting Indonesian-Chinese dish.",
+    "ingredients": [
+      "2 cups jasmine rice",
+      "200 g chicken breast, minced or finely chopped",
+      "3 cloves garlic, minced",
+      "2 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tsp sesame oil",
+      "500 ml chicken broth",
+      "Salt and white pepper",
+      "Green onion and fried shallots to serve"
+    ],
+    "steps": [
+      "Rinse rice and mix with chicken broth in a heatproof bowl.",
+      "Season minced chicken with garlic, soy sauce, oyster sauce, sesame oil, salt, and pepper.",
+      "Place seasoned chicken on top of the rice mixture in the bowl.",
+      "Steam over boiling water for 35-40 min until rice is soft and chicken is cooked.",
+      "Stir gently to mix chicken through the rice.",
+      "Serve topped with fried shallots and sliced green onion."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Karaage",
+    "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=600&q=80",
+    "category": "Chicken",
+    "cookingTime": "30 min",
+    "description": "Japanese crispy bite-sized fried chicken marinated in soy, ginger, and sake.",
+    "ingredients": [
+      "600 g chicken thighs, boneless, cut into bite-sized pieces",
+      "3 tbsp soy sauce",
+      "2 tbsp sake",
+      "1 tbsp mirin",
+      "1 tbsp ginger, grated",
+      "2 cloves garlic, grated",
+      "4 tbsp potato starch or cornstarch",
+      "Oil for deep frying",
+      "Lemon wedges and kewpie mayo to serve"
+    ],
+    "steps": [
+      "Combine soy sauce, sake, mirin, ginger, and garlic in a bowl.",
+      "Add chicken and marinate for at least 30 min, ideally 2 hours.",
+      "Coat marinated chicken pieces in potato starch, pressing to adhere.",
+      "Heat oil to 170 degrees C (340 degrees F).",
+      "Fry chicken in batches for 4-5 min until light golden. Drain.",
+      "Increase oil to 190 degrees C (374 degrees F). Fry again for 1-2 min until deeply golden and crispy.",
+      "Serve immediately with lemon wedges and kewpie mayo."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Sop Iga",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "90 min",
+    "description": "Indonesian beef short rib soup with vegetables in a light and fragrant clear broth.",
+    "ingredients": [
+      "1 kg beef short ribs",
+      "2 potatoes, cubed",
+      "2 carrots, sliced",
+      "1 tomato, quartered",
+      "5 shallots, halved",
+      "3 cloves garlic",
+      "3 cm ginger",
+      "1/2 tsp nutmeg",
+      "2 tbsp butter",
+      "1.5 L water",
+      "Salt and white pepper",
+      "Fried shallots, green onion, and lime to serve"
+    ],
+    "steps": [
+      "Blanch ribs in boiling water 5 min. Discard water and rinse ribs.",
+      "Saute shallots, garlic, and ginger in butter until soft and lightly golden.",
+      "Add ribs and fresh water. Bring to a boil.",
+      "Add nutmeg. Simmer covered for 60-70 min until ribs are tender.",
+      "Add potatoes and carrots. Cook 15 min.",
+      "Add tomato and season with salt and white pepper.",
+      "Serve topped with fried shallots, green onion, and a squeeze of lime."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Mie Kuah",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "25 min",
+    "description": "Indonesian egg noodle soup in a savory chicken broth with vegetables and wonton.",
+    "ingredients": [
+      "200 g egg noodles",
+      "1 L chicken broth",
+      "100 g poached or shredded chicken",
+      "4 ready-made wontons",
+      "100 g bok choy",
+      "3 cloves garlic, minced",
+      "2 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "Salt and white pepper",
+      "Fried shallots and green onion to serve"
+    ],
+    "steps": [
+      "Bring chicken broth to a boil. Add garlic and soy sauce.",
+      "Season broth with sesame oil, salt, and white pepper.",
+      "Cook egg noodles in a separate pot, drain well.",
+      "Blanch bok choy in the broth for 1 min.",
+      "Cook wontons in broth for 3-4 min until they float.",
+      "Place noodles in serving bowls. Ladle hot broth over.",
+      "Top with chicken, bok choy, wontons, fried shallots, and green onion."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Sate Sapi",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "35 min",
+    "description": "Indonesian beef satay skewers marinated in sweet soy and spices, grilled over charcoal.",
+    "ingredients": [
+      "500 g beef sirloin, cut into small cubes",
+      "3 tbsp kecap manis",
+      "2 tbsp soy sauce",
+      "1 tsp coriander powder",
+      "1 tsp cumin powder",
+      "3 cloves garlic, minced",
+      "2 shallots, minced",
+      "1 tbsp oil",
+      "Bamboo skewers, soaked in water",
+      "Peanut sauce, sliced shallots, and steamed rice to serve"
+    ],
+    "steps": [
+      "Combine kecap manis, soy sauce, coriander, cumin, garlic, shallots, and oil.",
+      "Toss beef cubes in the marinade. Rest at least 30 min.",
+      "Thread 4-5 cubes onto each soaked bamboo skewer.",
+      "Grill over high heat (charcoal preferred) for 2-3 min per side, basting with leftover marinade.",
+      "Continue turning until beef is charred on the outside and cooked through.",
+      "Serve with peanut sauce, sliced raw shallots, and steamed rice."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Beef Gyudon",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=600&q=80",
+    "category": "Beef",
+    "cookingTime": "20 min",
+    "description": "Japanese beef rice bowl with thinly sliced beef and onion simmered in a sweet soy dashi broth.",
+    "ingredients": [
+      "400 g beef ribeye or sirloin, very thinly sliced",
+      "2 cups steamed Japanese short-grain rice",
+      "1 large onion, thinly sliced",
+      "200 ml dashi stock",
+      "3 tbsp soy sauce",
+      "2 tbsp mirin",
+      "1 tbsp sake",
+      "1 tbsp sugar",
+      "2 soft-boiled eggs",
+      "Pickled ginger and green onion to serve"
+    ],
+    "steps": [
+      "Combine dashi, soy sauce, mirin, sake, and sugar in a pan. Bring to a simmer.",
+      "Add sliced onion and cook 5 min until softened.",
+      "Add beef slices in a single layer. Simmer gently 3-4 min, turning once, until just cooked.",
+      "Mound hot steamed rice in bowls.",
+      "Spoon beef and onion over rice and ladle sauce generously over.",
+      "Top with a halved soft-boiled egg, pickled ginger, and green onion."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Chow Mein",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&q=80",
+    "category": "Noodles",
+    "cookingTime": "20 min",
+    "description": "Classic Chinese-American stir-fried noodles with vegetables and oyster sauce.",
+    "ingredients": [
+      "300 g chow mein noodles or thin egg noodles",
+      "150 g chicken breast or tofu, sliced",
+      "1 cup bean sprouts",
+      "1 cup cabbage, shredded",
+      "1 carrot, julienned",
+      "3 cloves garlic, minced",
+      "3 tbsp oyster sauce",
+      "2 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "2 tbsp vegetable oil",
+      "Green onion to garnish"
+    ],
+    "steps": [
+      "Cook noodles until just tender, rinse with cold water, and drain well.",
+      "Heat oil in a wok over high heat. Cook chicken or tofu until done. Set aside.",
+      "Saute garlic until fragrant. Add carrot and cabbage, stir-fry 2 min.",
+      "Add noodles and toss together.",
+      "Add oyster sauce and soy sauce. Toss vigorously over high heat 2-3 min.",
+      "Return chicken or tofu. Add bean sprouts, toss 30 seconds.",
+      "Drizzle sesame oil, garnish with green onion and serve immediately."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Avocado Toast",
+    "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c820?w=600&q=80",
+    "category": "Vegetarian",
+    "cookingTime": "10 min",
+    "description": "Creamy smashed avocado on toasted sourdough with lemon, chili flakes, and poached egg.",
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "1 tbsp lemon juice",
+      "1/4 tsp chili flakes",
+      "Flaky sea salt and black pepper",
+      "2 eggs (for poaching)",
+      "1 tbsp white vinegar",
+      "Cherry tomatoes and microgreens to garnish (optional)"
+    ],
+    "steps": [
+      "Toast sourdough until golden and crispy.",
+      "Halve avocado and scoop flesh into a bowl. Add lemon juice, salt, and pepper.",
+      "Mash with a fork to desired consistency - leave it slightly chunky.",
+      "Poach eggs: bring water to a gentle simmer with vinegar. Swirl water and slide in eggs. Poach 3 min.",
+      "Spread avocado generously on toast.",
+      "Top with poached egg, chili flakes, extra sea salt, and microgreens or tomatoes."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Coto Makassar",
+    "image": "https://images.unsplash.com/photo-1604908177453-7462950a6a3b?w=600&q=80",
+    "category": "Soup",
+    "cookingTime": "90 min",
+    "description": "South Sulawesi beef soup in a thick, richly spiced peanut broth.",
+    "ingredients": [
+      "500 g beef brisket",
+      "100 g roasted peanuts, ground",
+      "5 shallots",
+      "5 cloves garlic",
+      "3 cm ginger",
+      "3 cm galangal",
+      "2 stalks lemongrass",
+      "1 tsp coriander seeds, toasted",
+      "1 tsp cumin seeds, toasted",
+      "2 L water",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Green onion and sambal to serve"
+    ],
+    "steps": [
+      "Boil beef in water with lemongrass and galangal until very tender, about 60-75 min.",
+      "Remove meat. Cut into bite-sized pieces. Reserve broth.",
+      "Blend shallots, garlic, ginger, toasted coriander, and cumin into a paste.",
+      "Saute spice paste in oil until very fragrant, about 5 min.",
+      "Add spice paste and ground peanuts to the reserved broth. Stir well.",
+      "Simmer 15 min until broth is thick and rich. Season with salt.",
+      "Add meat back in and heat through.",
+      "Serve with green onion and sambal."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Klepon",
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "30 min",
+    "description": "Chewy Indonesian glutinous rice balls filled with liquid palm sugar and rolled in coconut.",
+    "ingredients": [
+      "200 g glutinous rice flour",
+      "1/2 tsp pandan paste or juice",
+      "130 ml warm water (adjust as needed)",
+      "100 g palm sugar (gula merah), finely chopped",
+      "150 g fresh grated coconut",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Mix grated coconut with a pinch of salt. Steam for 5 min. Set aside.",
+      "Combine glutinous rice flour, pandan paste, and warm water. Knead into a soft, pliable dough.",
+      "Take a small piece of dough, flatten it, and place a small chunk of palm sugar in the center.",
+      "Seal the edges tightly and roll into a smooth ball.",
+      "Bring a pot of water to a boil. Drop in klepon balls.",
+      "Cook until they float to the surface, about 3-4 min. Remove and drain.",
+      "Roll warm klepon in the steamed grated coconut until fully coated. Serve immediately."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Dadar Gulung",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "30 min",
+    "description": "Indonesian green pandan crepes filled with sweet coconut and palm sugar filling.",
+    "ingredients": [
+      "150 g all-purpose flour",
+      "300 ml coconut milk",
+      "2 eggs",
+      "1/2 tsp pandan paste",
+      "1/4 tsp salt",
+      "Filling: 150 g fresh grated coconut",
+      "100 g palm sugar, grated",
+      "1 pandan leaf",
+      "3 tbsp water"
+    ],
+    "steps": [
+      "Make filling: cook grated coconut, palm sugar, pandan leaf, and water in a pan over low heat. Stir until thick and dry. Cool.",
+      "Make batter: whisk flour, eggs, coconut milk, pandan paste, and salt until smooth.",
+      "Heat a non-stick pan over medium-low heat. Lightly grease.",
+      "Pour a thin ladle of batter and swirl to coat the pan. Cook 1-2 min until set.",
+      "Place a spoonful of coconut filling along one edge. Fold sides in and roll tightly.",
+      "Repeat with remaining batter and filling.",
+      "Serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Pisang Goreng",
+    "image": "https://images.unsplash.com/photo-1481391319762-47dff72954d9?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "20 min",
+    "description": "Crispy Indonesian fried bananas with a light batter, golden on the outside and soft inside.",
+    "ingredients": [
+      "4 ripe bananas (pisang kepok or plantain preferred)",
+      "150 g all-purpose flour",
+      "50 g rice flour",
+      "1/2 tsp baking powder",
+      "1/4 tsp salt",
+      "1 tsp sugar",
+      "180 ml cold water",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Peel bananas and slice lengthwise, or halve crosswise.",
+      "Whisk together all-purpose flour, rice flour, baking powder, salt, and sugar.",
+      "Add cold water gradually and mix until a smooth, slightly thick batter forms.",
+      "Heat oil in a pan to 175 degrees C (350 degrees F).",
+      "Dip banana slices in batter, letting excess drip off.",
+      "Fry in batches for 3-4 min per side until golden and crispy.",
+      "Drain on paper towel and serve hot, optionally with a drizzle of condensed milk."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kolak",
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "35 min",
+    "description": "Warm Indonesian sweet coconut broth with banana, kolang-kaling, and sweet potato.",
+    "ingredients": [
+      "3 ripe bananas, sliced thickly",
+      "200 g sweet potato, peeled and cubed",
+      "100 g kolang-kaling (palm fruit), halved",
+      "400 ml coconut milk",
+      "500 ml water",
+      "150 g palm sugar, grated",
+      "2 pandan leaves, knotted",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Bring water, palm sugar, pandan leaves, and salt to a boil until sugar dissolves.",
+      "Add sweet potato and kolang-kaling. Cook 10 min until sweet potato is soft.",
+      "Add bananas and cook 5 more min.",
+      "Pour in coconut milk and stir gently. Do not boil after adding coconut milk.",
+      "Heat just until steaming hot.",
+      "Taste and adjust sweetness. Serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Chocolate Lava Cake",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "25 min",
+    "description": "Decadent warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
+    "ingredients": [
+      "100 g dark chocolate (70%), chopped",
+      "100 g butter",
+      "2 eggs",
+      "2 egg yolks",
+      "80 g sugar",
+      "40 g all-purpose flour",
+      "Pinch of salt",
+      "Butter and cocoa powder to grease ramekins",
+      "Vanilla ice cream to serve"
+    ],
+    "steps": [
+      "Preheat oven to 200 degrees C (390 degrees F). Butter 4 ramekins and dust with cocoa powder.",
+      "Melt chocolate and butter together in a bowl over simmering water. Stir until smooth. Cool slightly.",
+      "Whisk eggs, egg yolks, and sugar together until thick and pale, about 3 min.",
+      "Fold chocolate mixture into the egg mixture.",
+      "Sift in flour and salt. Fold gently until just combined.",
+      "Divide batter among ramekins. Bake 10-12 min until edges are set but center still jiggles.",
+      "Rest 1 min. Run a knife around the edge, invert onto plates. Serve immediately with ice cream."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Creme Brulee",
+    "image": "https://images.unsplash.com/photo-1470124182917-cc6e71b22ecc?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "60 min",
+    "description": "Classic French custard with a perfectly caramelized burnt sugar crust on top.",
+    "ingredients": [
+      "500 ml heavy cream",
+      "5 egg yolks",
+      "100 g sugar",
+      "1 tsp vanilla extract",
+      "4 tbsp extra sugar (for brulee topping)"
+    ],
+    "steps": [
+      "Preheat oven to 160 degrees C (320 degrees F).",
+      "Heat cream with vanilla until just simmering. Remove from heat.",
+      "Whisk egg yolks and sugar until pale. Slowly pour hot cream into yolks while whisking.",
+      "Strain mixture through a fine sieve.",
+      "Pour into 4 ramekins. Place in a deep baking tray. Fill tray with boiling water halfway up the ramekins.",
+      "Bake 40-45 min until custard is just set with a slight wobble in the center.",
+      "Cool, then refrigerate at least 2 hours.",
+      "Just before serving, sprinkle 1 tbsp sugar on each. Brulee with a kitchen torch until caramelized."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Onde-Onde",
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "35 min",
+    "description": "Crispy sesame-coated Indonesian glutinous rice balls filled with sweet mung bean paste.",
+    "ingredients": [
+      "200 g glutinous rice flour",
+      "20 g sugar",
+      "130 ml warm water",
+      "Filling: 150 g split mung beans, soaked",
+      "80 g sugar for filling",
+      "1/2 tsp vanilla",
+      "100 g white sesame seeds",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Make filling: steam soaked mung beans until soft. Mash with sugar and vanilla. Cool and roll into small balls.",
+      "Mix glutinous rice flour, sugar, and warm water into a smooth dough.",
+      "Flatten a piece of dough, place a mung bean ball in the center, seal and roll smooth.",
+      "Roll balls in sesame seeds, pressing gently so they stick.",
+      "Deep fry in oil at 160 degrees C (320 degrees F), gently pressing balls with a ladle so they expand evenly.",
+      "Fry 6-8 min until golden and crispy, turning occasionally.",
+      "Drain and serve warm."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Tiramisu",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=600&q=80",
+    "category": "Desserts",
+    "cookingTime": "30 min",
+    "description": "Classic Italian no-bake dessert with espresso-soaked ladyfingers and creamy mascarpone.",
+    "ingredients": [
+      "250 g mascarpone cheese",
+      "3 eggs, separated",
+      "80 g sugar",
+      "200 ml strong espresso, cooled",
+      "2 tbsp coffee liqueur (optional)",
+      "200 g ladyfinger biscuits (savoiardi)",
+      "Cocoa powder to dust",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Beat egg yolks and sugar until pale and thick. Fold in mascarpone until smooth.",
+      "In a separate bowl, beat egg whites with a pinch of salt to stiff peaks.",
+      "Gently fold egg whites into the mascarpone mixture in 3 batches.",
+      "Mix espresso and liqueur in a shallow bowl.",
+      "Quickly dip ladyfingers one by one in the coffee mixture and layer in a dish.",
+      "Spread half the mascarpone cream over the biscuits. Add another layer of dipped biscuits.",
+      "Spread remaining cream on top. Refrigerate at least 4 hours or overnight.",
+      "Dust generously with cocoa powder before serving."
+    ]
+  }
+]

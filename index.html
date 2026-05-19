@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Dormeals — A simple Indonesian food recipe app with classic favorites like Nasi Goreng and Ayam Goreng." />
+  <title>Dormeals — Indonesian Food Recipes</title>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+
+  <!-- ═══════════════════════════════
+       HEADER
+  ═══════════════════════════════ -->
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+
+      <!-- Logo -->
+      <a href="#" class="logo" aria-label="Dormeals Home">
+        <span class="logo-icon">🍳</span>
+        <span class="logo-text">Dormeals</span>
+      </a>
+
+      <!-- Search bar -->
+      <div class="search-wrapper" role="search">
+        <span class="search-icon" aria-hidden="true">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+        </span>
+        <input
+          id="search-input"
+          type="search"
+          class="search-input"
+          placeholder="Search recipes…"
+          aria-label="Search recipes by name"
+          autocomplete="off"
+        />
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════
+       HERO BANNER
+  ═══════════════════════════════ -->
+  <section class="hero" aria-label="Welcome banner">
+    <p class="hero-subtitle">🇮🇩 Indonesian Cuisine</p>
+    <h1 class="hero-title">Taste the Heart of<br /><span>Home Cooking</span></h1>
+    <p class="hero-desc">
+      Simple, authentic recipes from the Indonesian kitchen — from Nasi Goreng to Rendang.
+    </p>
+  </section>
+
+  <!-- ═══════════════════════════════
+       MAIN CONTENT
+  ═══════════════════════════════ -->
+  <main class="main-content" id="main">
+
+    <!-- Filter Bar -->
+    <div class="filter-bar" role="navigation" aria-label="Recipe category filters">
+      <span class="filter-label">Category:</span>
+
+      <!-- Category buttons are injected here by components.js + app.js -->
+      <div id="filter-container" class="filter-container" role="group" aria-label="Filter by category"></div>
+
+      <!-- Results counter -->
+      <span id="results-count" class="results-count" aria-live="polite" aria-atomic="true"></span>
+    </div>
+
+    <!-- Recipe Cards Grid -->
+    <!-- Cards are injected here by app.js -->
+    <div id="recipes-grid" class="recipes-grid" role="list" aria-label="Recipe cards"></div>
+
+  </main>
+
+  <!-- ═══════════════════════════════
+       RECIPE DETAIL MODAL
+  ═══════════════════════════════ -->
+  <div
+    id="recipe-modal"
+    class="modal-overlay"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Recipe detail"
+  >
+    <div class="modal-box">
+
+      <!-- Close Button -->
+      <button id="modal-close" class="modal-close-btn" aria-label="Close recipe detail">
+        &times;
+      </button>
+
+      <!-- Modal content is injected here by components.js -->
+      <div id="modal-body"></div>
+
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════
+       FOOTER
+  ═══════════════════════════════ -->
+  <footer class="site-footer">
+    <p>Made with ❤️ by Dormeals &mdash; Enjoy every bite!</p>
+  </footer>
+
+  <!-- ═══════════════════════════════
+       SCRIPTS
+       Load order matters:
+       1. data.js     — provides loadRecipes()
+       2. components.js — provides render*() functions
+       3. app.js      — wires everything together
+  ═══════════════════════════════ -->
+  <script src="./js/data.js"></script>
+  <script src="./js/components.js"></script>
+  <script src="./js/app.js"></script>
+
+</body>
+</html>
